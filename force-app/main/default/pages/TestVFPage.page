@@ -4,8 +4,10 @@
 
     <apex:pageBlockSection>
         <apex:pageBlockButtons>
-
         </apex:pageBlockButtons>
-
+        
+        <apex:pageBlockTable>
+            
+        </apex:pageBlockTable>
     </apex:pageBlockSection>
 </apex:page>l
