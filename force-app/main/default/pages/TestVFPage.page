@@ -1,0 +1,4 @@
+<apex:page title="Test VF page">
+    <apex:messages />
+    <apex:slds />
+</apex:page>
