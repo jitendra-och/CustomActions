@@ -3,7 +3,9 @@
     <apex:slds />
 
     <apex:pageBlockSection>
-        
+        <apex:pageBlockButtons>
+            
+        </apex:pageBlockButtons>
 
     </apex:pageBlockSection>
 </apex:page>
